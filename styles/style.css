@@ -43,7 +43,6 @@
     font-weight: 400;
     font-style: normal;
     font-size: 18px;
-    line-height: 24.3px;
     letter-spacing: 0%;
 }
 
@@ -300,7 +299,6 @@
 }
 
 .footer_info {
-    line-height: 130%;
     font-style: normal;
     font-family: Raleway;
     font-weight: 400;
@@ -308,7 +306,6 @@
     line-height: 135%;
     letter-spacing: 0%;
     font-size: 18px;
-
 }
 
 .footer_list {
